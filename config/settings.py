@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     #Local
     'stocks',
+    'mlmodels'
 ]
 
 MIDDLEWARE = [
